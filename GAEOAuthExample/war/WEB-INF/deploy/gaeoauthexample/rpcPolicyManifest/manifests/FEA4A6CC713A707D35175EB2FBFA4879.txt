@@ -1,0 +1,2 @@
+serviceClass: com.zazarie.client.GreetingService
+path: 2888D442AE68319683C9779E0CEB9D42.gwt.rpc
