@@ -5,7 +5,7 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>MVCSample</servlet-name>
-		<url-pattern>/mvcsample</url-pattern>
+		<url-pattern>/SelectBeer.do</url-pattern>
 	</servlet-mapping>
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
